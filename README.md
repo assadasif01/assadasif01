@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Next.js, React Native, Prisma**
 
-- 📫 How to reach me **assadasif01@gmail.com**
+- 📫 How to reach me **dev.assad360@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_zCMYM8zej1b9Onw8SRx_M6tMkUVKRLT/view?usp=sharing)
 
